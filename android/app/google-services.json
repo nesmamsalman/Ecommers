@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849199590650",
+    "project_id": "ricka-489f7",
+    "storage_bucket": "ricka-489f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849199590650:android:435a0cbab40695d00ced43",
+        "android_client_info": {
+          "package_name": "com.example.mns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849199590650-68q4lt0lljndftvk7i7a2qedm2j1jt6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAZhyjdp1Vq0Hgk2i_FzexUgKWxXZKjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849199590650-68q4lt0lljndftvk7i7a2qedm2j1jt6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
